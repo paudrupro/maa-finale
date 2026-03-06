@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meilleure-assurance-animale.com/sitemap.xml
